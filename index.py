@@ -1,3 +1,4 @@
 #sasso
 #carta
 #forbice
+#culo
